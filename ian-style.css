@@ -6,9 +6,28 @@ Learning and learning
 body {
  background-color: #8da8c4;
  padding: 100px;
- color: ffffff;
+ color: #ffffff;
 
  }
 
+a{
+	color: #521329;
+	text-decoration: none;
 
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 16px;
+
+}
+
+.salud{
+	color: red;
+}
+
+h1 {
+	font-family: Georgia, serif;
+	font-kerning: 5px;
+}
 
